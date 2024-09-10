@@ -1,13 +1,13 @@
 /**
  * Config file
  * Sesuaikan dengan kebutuhan anda
- * Support: wa.me/+6285742632270
+ * Support: wa.me/+6285840642790
  */
 
 const fs = require("fs");
 const chalk = require("chalk");
 
-global.owner = ["6285742632270"];
+global.owner = ["6285840642790"];
 global.author = "https://github.com/rezadev05";
 global.packname = "push-kontak";
 global.sessionName = "WhatsApp-Session";
